@@ -4,6 +4,7 @@ body {
   color: #868e96;
 }
 
+
 @media (min-width: 992px) {
   body {
     padding-top: 0;
@@ -101,6 +102,7 @@ h2 {
   }
   #sideNav .navbar-collapse .navbar-nav .nav-item .nav-link {
     display: block;
+    color: #495057;
   }
 }
 
@@ -131,8 +133,7 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  /*background-color: #BD5D38 !important;*/
-  background-color: #BD5D38 !important;
+  background-color: #FBFCFC !important;
 }
 
 .text-primary {
